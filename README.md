@@ -8,3 +8,5 @@ Main.m script calls all necessary functions for completing the lab calculations.
 * calcErrorCTW.m - This file calculates the error associated with the experimental CTW data
 * calcErrorOTW.m - This file calculates the error associated with the experimental OTW data
 
+## Background
+For background into the experiment, and the comparison parameters see the files "Lab 1 Description Document.pdf" and "What to Compare.pdf"
