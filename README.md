@@ -12,4 +12,7 @@ Main.m script calls all necessary functions for completing the lab calculations.
 * calcErrorOTW.m - This file calculates the error associated with the experimental OTW data
 
 ## Results
+###  CTW Results
 [https://cloud.githubusercontent.com/assets/12754729/20639060/f04f85e0-b386-11e6-90ac-7406000a6fc2.png]
+### Comparison of Torisional Rigidity 
+[]
