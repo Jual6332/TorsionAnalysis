@@ -1,5 +1,5 @@
 # TortionTesting
-Calculate torsional response for Closed-Thin Walled and Open Thin-Walled theory, then compare with experimental data.
+Calculate torsional response for closed thin-walled and open thin-walled specimen. Compare the resulting experimental data with theory.
 
 ## Background
 For background into the experiment, and the comparison parameters see the files "Lab 1 Description Document.pdf" and "What to Compare.pdf"
