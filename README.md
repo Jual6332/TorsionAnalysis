@@ -1,4 +1,4 @@
-# TortionTesting
+# TorsionAnalysis
 Calculate torsional response for closed thin-walled and open thin-walled specimen. Compare the resulting experimental data with theory.
 
 ## Background
